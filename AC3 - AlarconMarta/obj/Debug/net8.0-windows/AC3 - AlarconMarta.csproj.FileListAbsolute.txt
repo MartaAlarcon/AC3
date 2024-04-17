@@ -1,0 +1,19 @@
+C:\Users\argo\Desktop\AC3 - AlarconMarta\obj\Debug\net8.0-windows\AC3 - AlarconMarta.csproj.GenerateResource.cache
+C:\Users\argo\Desktop\AC3 - AlarconMarta\obj\Debug\net8.0-windows\AC3 - AlarconMarta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argo\Desktop\AC3 - AlarconMarta\obj\Debug\net8.0-windows\AC3 - AlarconMarta.AssemblyInfoInputs.cache
+C:\Users\argo\Desktop\AC3 - AlarconMarta\obj\Debug\net8.0-windows\AC3 - AlarconMarta.AssemblyInfo.cs
+C:\Users\argo\Desktop\AC3 - AlarconMarta\obj\Debug\net8.0-windows\AC3 - AlarconMarta.csproj.CoreCompileInputs.cache
+C:\Users\argo\Desktop\AC3 - AlarconMarta\bin\Debug\net8.0-windows\AC3 - AlarconMarta.exe
+C:\Users\argo\Desktop\AC3 - AlarconMarta\bin\Debug\net8.0-windows\AC3 - AlarconMarta.deps.json
+C:\Users\argo\Desktop\AC3 - AlarconMarta\bin\Debug\net8.0-windows\AC3 - AlarconMarta.runtimeconfig.json
+C:\Users\argo\Desktop\AC3 - AlarconMarta\bin\Debug\net8.0-windows\AC3 - AlarconMarta.dll
+C:\Users\argo\Desktop\AC3 - AlarconMarta\bin\Debug\net8.0-windows\AC3 - AlarconMarta.pdb
+C:\Users\argo\Desktop\AC3 - AlarconMarta\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\argo\Desktop\AC3 - AlarconMarta\obj\Debug\net8.0-windows\AC3 - AlarconMarta.csproj.AssemblyReference.cache
+C:\Users\argo\Desktop\AC3 - AlarconMarta\obj\Debug\net8.0-windows\AC3___AlarconMarta.Form1.resources
+C:\Users\argo\Desktop\AC3 - AlarconMarta\obj\Debug\net8.0-windows\AC3 - Al.4A414992.Up2Date
+C:\Users\argo\Desktop\AC3 - AlarconMarta\obj\Debug\net8.0-windows\AC3 - AlarconMarta.dll
+C:\Users\argo\Desktop\AC3 - AlarconMarta\obj\Debug\net8.0-windows\refint\AC3 - AlarconMarta.dll
+C:\Users\argo\Desktop\AC3 - AlarconMarta\obj\Debug\net8.0-windows\AC3 - AlarconMarta.pdb
+C:\Users\argo\Desktop\AC3 - AlarconMarta\obj\Debug\net8.0-windows\AC3 - AlarconMarta.genruntimeconfig.cache
+C:\Users\argo\Desktop\AC3 - AlarconMarta\obj\Debug\net8.0-windows\ref\AC3 - AlarconMarta.dll

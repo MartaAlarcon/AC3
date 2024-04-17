@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vKR3JSYJsG/DgVUMuEOmz6MluIuSvUYKTUKqe/PF3T7fkmeB85Zqme/eq4/9l127VDRjxXxyioHcESQ6RGajSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\argo\\Desktop\\AC3 - AlarconMarta\\AC3 - AlarconMarta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\argo\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
